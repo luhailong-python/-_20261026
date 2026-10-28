@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "coordinatorThread": "01a17b19-1946-72f3-997e-9162eccf9b31",
+  "recordedAt": "2026-10-26T22:08:34.9568593-04:00",
+  "status": "window_consolidation_complete",
+  "method": "One continuing owner per game; integrate unique deliverables by source-path reference with provenance, preserve donor outputs, archive duplicate chat after handoff. No conversation history concatenation.",
+  "rules": [
+    "Do not modify F:\\work\\image",
+    "Do not modify shared Git state",
+    "Do not delete or overwrite unique current deliverables",
+    "Do not add image counts to claim functional coverage",
+    "Finish in-flight outputs before archiving duplicate chats"
+  ],
+  "pairs": [
+    {
+      "game": "Veloren",
+      "primaryThread": "01a177ab-0667-7393-83a6-0d4198dce300",
+      "primaryRoot": "E:\\work\\image\\Veloren_QDao_UI_20261026_060716",
+      "donorThread": "01a17802-088e-79b0-9bd4-1f3c823c68cc",
+      "donorRoot": "E:\\work\\image\\Veloren道家UI_20261026_074000",
+      "donorEntryChecks": [
+        {
+          "relativePath": "README.md",
+          "exists": true
+        },
+        {
+          "relativePath": "records/skills-v2-worker-a.json",
+          "exists": true
+        },
+        {
+          "relativePath": "records/skills-v2-worker-b.json",
+          "exists": true
+        },
+        {
+          "relativePath": "records/buff-map-v2-worker.json",
+          "exists": true
+        },
+        {
+          "relativePath": "records/characters-body-b-slices.json",
+          "exists": true
+        },
+        {
+          "relativePath": "records/state-art-v2-results.json",
+          "exists": true
+        },
+        {
+          "relativePath": "assets/icons/skills",
+          "exists": true
+        },
+        {
+          "relativePath": "assets/icons/abilities",
+          "exists": true
+        }
+      ],
+      "donorHandoff": "E:\\work\\image\\Veloren道家UI_20261026_074000\\docs\\WINDOW_MERGE_HANDOFF_20261026.md",
+      "donorHandoffSha256": "0c58532ffd9d4f165c9019de1ec0a477ce6b89277e13b58bb0d7480a6089f2f0",
+      "donorArchived": true,
+      "status": "owner_consolidated_sources_referenced_asset_acceptance_pending",
+      "primaryReceipt": "E:\\work\\image\\Veloren_QDao_UI_20261026_060716\\docs\\WINDOW_MERGE_RECEIPT_20261026.md",
+      "primaryReceiptSha256": "b986d8796b9b91fc3f08535f847d2fbe4e0100241e3a6ee27ca00ea68746bea4",
+      "primaryMachineIntake": "E:\\work\\image\\Veloren_QDao_UI_20261026_060716\\records\\window-merge-receipt-20261026.json",
+      "markdownReceiptSaved": true
+    },
+    {
+      "game": "OpenRCT2",
+      "primaryThread": "01a17806-e809-7b12-b899-99244e13d06b",
+      "primaryRoot": "E:\\work\\image\\OpenRCT2_UI_20261026_074555",
+      "donorThread": "01a177a6-ab28-7732-aee8-f17747d127e1",
+      "donorRoot": "E:\\work\\image\\OpenRCT2_道家UI_20261026_060015",
+      "donorArchived": true,
+      "status": "owner_consolidated_sources_referenced_asset_acceptance_pending",
+      "donorEntryChecks": [
+        {
+          "relativePath": "index.html",
+          "exists": true
+        },
+        {
+          "relativePath": "docs/all-ui-production-manifest.json",
+          "exists": true
+        },
+        {
+          "relativePath": "assets/manifest.json",
+          "exists": true
+        },
+        {
+          "relativePath": "assets/fonts",
+          "exists": true
+        },
+        {
+          "relativePath": "docs/product-placement-audit.json",
+          "exists": true
+        },
+        {
+          "relativePath": "docs/control-resource-mapping.json",
+          "exists": true
+        },
+        {
+          "relativePath": "records/generation-index.json",
+          "exists": true
+        },
+        {
+          "relativePath": "records/image-provenance-index.json",
+          "exists": true
+        }
+      ],
+      "donorHandoff": "E:\\work\\image\\OpenRCT2_道家UI_20261026_060015\\docs\\WINDOW_MERGE_HANDOFF_20261026.md",
+      "donorHandoffSha256": "563072bf1bb252e7c6779fc7a0906bb55a302c81d16ba2c55d36a94cd99ec702",
+      "primaryReceipt": "E:\\work\\image\\OpenRCT2_UI_20261026_074555\\records\\window-merge-index.json",
+      "primaryReceiptSha256": "35024a4fdc250ea57308a732b41f0dce42f248ad681539584189ccebc299de4c",
+      "primaryMachineIntake": "E:\\work\\image\\OpenRCT2_UI_20261026_074555\\records\\window-merge-index.json",
+      "markdownReceiptSaved": false
+    },
+    {
+      "game": "Cataclysm-DDA",
+      "primaryThread": "01a17800-a901-75a2-963c-09c4ca8cfc09",
+      "primaryRoot": "E:\\work\\image\\CataclysmDDA_道家UI_20261026_073832",
+      "donorThread": "01a17787-b8fd-7f30-a97f-1c03f4aa7770",
+      "donorRoot": "E:\\work\\image\\cataclysm-dao-ui",
+      "donorEntryChecks": [
+        {
+          "relativePath": "art-delivery/previews/index.html",
+          "exists": true
+        },
+        {
+          "relativePath": "art-delivery/records/ui-master-manifest.json",
+          "exists": true
+        },
+        {
+          "relativePath": "art-delivery/records/complete-resource-manifest.json",
+          "exists": true
+        },
+        {
+          "relativePath": "art-delivery/resources",
+          "exists": true
+        },
+        {
+          "relativePath": "art-delivery/records/unity-import-complete.csv",
+          "exists": true
+        },
+        {
+          "relativePath": "art-delivery/records/FINAL_ACCEPTANCE.json",
+          "exists": true
+        },
+        {
+          "relativePath": "docs/image-reference-associations.md",
+          "exists": true
+        }
+      ],
+      "donorHandoff": "E:\\work\\image\\cataclysm-dao-ui\\docs\\WINDOW_MERGE_HANDOFF_20261026.md",
+      "donorHandoffSha256": "89bc4d2c66e4e74bb2aee9050f1f795612a241d49d90467554e237e39a37ea1c",
+      "donorArchived": true,
+      "status": "owner_consolidated_sources_referenced_asset_acceptance_pending",
+      "primaryReceipt": "E:\\work\\image\\CataclysmDDA_道家UI_20261026_073832\\docs\\WINDOW_MERGE_RECEIPT_20261026.md",
+      "primaryReceiptSha256": "73785a77b5d953f7d4f5525c8cbbc902b6fa30e4ec8764b0834e97de4c2c5f63",
+      "primaryMachineIntake": "E:\\work\\image\\CataclysmDDA_道家UI_20261026_073832\\records\\window-merge-receipt-20261026.json",
+      "markdownReceiptSaved": true
+    }
+  ],
+  "completedAt": "2026-10-26T22:21:33.7837544-04:00",
+  "unifiedArtAcceptanceComplete": false,
+  "donorSourceDirectoriesMustRemain": true,
+  "filesRelocated": false,
+  "verification": {
+    "activeListConfirmedThreePrimaryThreads": true,
+    "archiveListConfirmedThreeDonors": true,
+    "donorEntryChecksMissing": 0,
+    "threeMachineIntakesReadable": true,
+    "sourceCandidatesPreservePendingAcceptance": true
+  }
+}
